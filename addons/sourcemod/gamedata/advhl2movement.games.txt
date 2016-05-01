@@ -1,0 +1,21 @@
+"Games"
+{
+
+	"#default"
+	{
+		"#supported"
+		{
+			"game"		"hl2mp"
+		}
+
+		"Signatures"
+		{
+			"StartSprinting"
+			{
+				"library"	"server"
+				"linux"		"@_ZN11CHL2_Player14StartSprintingEv"
+				"windows"	""
+			}
+		}
+	}
+}
